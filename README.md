@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Todo API
 get /api/health
 get /api/docs
